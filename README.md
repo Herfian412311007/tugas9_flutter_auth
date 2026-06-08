@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # tugas9_flutter_auth
 
 A new Flutter project.
@@ -15,3 +16,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# tugas9_flutter_auth
+>>>>>>> 2e41fd78dfd384bf5a51d21cbcf5a174c13edc3a
