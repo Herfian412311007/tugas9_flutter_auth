@@ -1,21 +1,27 @@
-<<<<<<< HEAD
-# tugas9_flutter_auth
+# Tugas 9 - Flutter Auth + PHP API
 
-A new Flutter project.
+## 📱 Flutter App
 
-## Getting Started
+Folder: `flutter_app/`
 
-This project is a starting point for a Flutter application.
+- Login & Register UI
+- Integrasi API dengan HTTP
+- Simpan token JWT di SharedPreferences
 
-A few resources to get you started if this is your first Flutter project:
+## 🌐 Backend API
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Folder: `flutter_api/`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# tugas9_flutter_auth
->>>>>>> 2e41fd78dfd384bf5a51d21cbcf5a174c13edc3a
+- PHP + MySQL
+- Auth (login, register)
+- JWT Middleware
+
+## 🚀 Cara Menjalankan
+
+1. Jalankan XAMPP → Apache & MySQL.
+2. Import database `flutter_api.sql`.
+3. Jalankan Flutter:
+   ```bash
+   cd flutter_app
+   flutter run
+   ```
