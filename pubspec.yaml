@@ -1,0 +1,29 @@
+name: tugas9_flutter_auth
+description: "Praktikum Pertemuan 9 - Flutter Auth MySQL JWT"
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.5
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Package untuk koneksi API (HTTP request)
+  http: ^1.6.0
+
+  # State management (opsional, bisa dipakai nanti)
+  provider: ^6.0.5
+
+  # Default icon iOS style
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
